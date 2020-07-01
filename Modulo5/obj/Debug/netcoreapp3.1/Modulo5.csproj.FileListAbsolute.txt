@@ -1,0 +1,13 @@
+G:\Curso de C#\Projetos\Modulo5\Modulo5\bin\Debug\netcoreapp3.1\Modulo5.exe
+G:\Curso de C#\Projetos\Modulo5\Modulo5\bin\Debug\netcoreapp3.1\Modulo5.deps.json
+G:\Curso de C#\Projetos\Modulo5\Modulo5\bin\Debug\netcoreapp3.1\Modulo5.runtimeconfig.json
+G:\Curso de C#\Projetos\Modulo5\Modulo5\bin\Debug\netcoreapp3.1\Modulo5.runtimeconfig.dev.json
+G:\Curso de C#\Projetos\Modulo5\Modulo5\bin\Debug\netcoreapp3.1\Modulo5.dll
+G:\Curso de C#\Projetos\Modulo5\Modulo5\bin\Debug\netcoreapp3.1\Modulo5.pdb
+G:\Curso de C#\Projetos\Modulo5\Modulo5\obj\Debug\netcoreapp3.1\Modulo5.csprojAssemblyReference.cache
+G:\Curso de C#\Projetos\Modulo5\Modulo5\obj\Debug\netcoreapp3.1\Modulo5.csproj.CoreCompileInputs.cache
+G:\Curso de C#\Projetos\Modulo5\Modulo5\obj\Debug\netcoreapp3.1\Modulo5.AssemblyInfoInputs.cache
+G:\Curso de C#\Projetos\Modulo5\Modulo5\obj\Debug\netcoreapp3.1\Modulo5.AssemblyInfo.cs
+G:\Curso de C#\Projetos\Modulo5\Modulo5\obj\Debug\netcoreapp3.1\Modulo5.dll
+G:\Curso de C#\Projetos\Modulo5\Modulo5\obj\Debug\netcoreapp3.1\Modulo5.pdb
+G:\Curso de C#\Projetos\Modulo5\Modulo5\obj\Debug\netcoreapp3.1\Modulo5.genruntimeconfig.cache
